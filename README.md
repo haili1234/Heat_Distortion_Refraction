@@ -10,6 +10,6 @@
 
 所以在PostProcessing渲染通道渲染完成后会有一个_AfterPostProcessTexture的屏幕截图，这个就是正确的屏幕截图了，这时候使用这个截图就可以做出正确的扭曲效果。
 
-测试效果：
+效果测试：
 https://user-images.githubusercontent.com/7518595/123969522-e3104100-d9ea-11eb-8941-f52efbba298f.mp4
 
